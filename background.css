@@ -1,0 +1,23 @@
+.my-container {
+    background-image: url('/public/qr_generation_wall3.png');
+    background-size: cover;
+    background-repeat: repeat;
+    width: 1080px;
+    height: 1920px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: column;
+}
+
+.qr-scan-container {
+    background-color: #5c5f64;
+    background-size: cover;
+    background-repeat: repeat;
+    width: auto;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
